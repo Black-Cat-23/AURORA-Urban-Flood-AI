@@ -102,7 +102,7 @@ npm run dev
 ---
 
 ## 📄 License & Intellectual Property
-Designed and developed for advanced hackathons and enterprise government demonstrations. All rights reserved.
+Designed and developed by MITUL RISHI for advanced hackathons and enterprise government demonstrations. All rights reserved @MITUL RISHi.
 
 ---
 <p align="center">
